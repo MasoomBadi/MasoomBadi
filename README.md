@@ -3,11 +3,15 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width=96, height=96/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=96, height=96 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=96, height=96/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=96, height=96/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=96, height=96/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width=80, height=80/>
+   &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=80, height=80 />
+   &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=80, height=80/>
+   &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=80, height=80/>
+   &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=80, height=80/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MasoomBadi&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="MasoomBadi" /></p>
  
