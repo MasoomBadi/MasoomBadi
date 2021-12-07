@@ -1,4 +1,4 @@
-              <center>Hi there 👋 I'm Masoom Badi</center>
+              ###Hi there 👋 I'm Masoom Badi
 
 - 🔭 I.m currently working on Android, PHP
 - 🌱 I’m currently learning React, ReactNative, Flutter
